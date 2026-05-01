@@ -13,4 +13,3 @@ Medidas aplicadas:
 - Sin referencias a clientes, prácticas o herramientas internas.
 - README redactado como proyecto personal.
 
-Antes de publicarlo, revisa igualmente tu contrato de prácticas y cualquier acuerdo de confidencialidad que hayas firmado.
