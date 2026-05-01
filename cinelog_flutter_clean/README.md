@@ -22,8 +22,7 @@ Este proyecto está planteado como una app de portfolio creada desde cero: no us
 - Dart
 - Provider
 - SharedPreferences
-- Material Design 3
-
+  
 ## Estructura
 
 ```txt
@@ -51,21 +50,6 @@ cd cinelog-flutter
 flutter create --platforms=android,ios,web --org com.pelayoalonso .
 flutter pub get
 flutter run
-```
-
-## Capturas
-
-Añade capturas en:
-
-```txt
-assets/screenshots/
-```
-
-Ejemplo para el README:
-
-```md
-![Pantalla principal](assets/screenshots/home.png)
-![Formulario](assets/screenshots/editor.png)
 ```
 
 ## Mejoras futuras
